@@ -56,7 +56,7 @@ This project aims to create an interactive virtual pet experience running on the
 
 ## 6. Project Status
 
-* **Current Status:** Paused (As of YYYY-MM-DD) - Awaiting hardware arrival.
+* **Current Status:** Paused (As of 15-04-2025) - Awaiting hardware arrival.
 * **Phase:** Initial planning and feature definition complete. Basic project structure set up on GitHub.
 
 ## 7. Future Ideas / Roadmap
@@ -69,4 +69,4 @@ This project aims to create an interactive virtual pet experience running on the
 
 ## 8. License
 
-*(Refer to your LICENSE file here if you added one, e.g., MIT License)*
+*(No licence yet)*
