@@ -4,6 +4,10 @@
 
 This project aims to create an interactive virtual pet experience running on the M5StickC PLUS2 hardware platform. The pets will have unique stats, needs, and personalities. Key features include interaction based on real-world movement (detected via IMU), time-based needs (using the RTC), and potential communication between devices.
 
+The files for this project are hosted at:
+
+**[`https://SmuchiPet.iffy.top/`](https://SmuchiPet.iffy.top/)**
+
 ## 2. Hardware
 
 * **Target Device:** M5StickC PLUS2
